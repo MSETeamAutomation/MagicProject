@@ -16,3 +16,12 @@ PID 5768	20/08/2018 12:03:36
 ==============================================
 
 
+ <-1> 20/08/2018 12:10:08.543     [Error  ] - Password for broker "Default Broker" does not match the password in MGRB.INI ,
+ <-1> 20/08/2018 12:10:08.546     [Error  ] - A temporary broker "__internal_broker" was created in the servers table for this session ,
+ <-1> 20/08/2018 12:10:08.547     [Error  ] - The broker will be terminated when this session will terminate.
+
+==============================================
+PID 1308	20/08/2018 12:11:34
+==============================================
+
+
